@@ -1,3 +1,3 @@
-Pedro;Gil
-Ernesto;Gonzalez
-Guillermo;Reyes
+Pedro;Gil;21
+Ernesto;Gonzalez;21
+Guillermo;Reyes;21

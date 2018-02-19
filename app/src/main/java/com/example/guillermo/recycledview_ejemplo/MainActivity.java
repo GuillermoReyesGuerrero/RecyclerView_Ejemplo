@@ -33,6 +33,9 @@ public class MainActivity extends AppCompatActivity {
         try{
             while((linea=reader.readLine())!=null){
                 ListDatos.add(linea.split(";")[0]);
+                ListDatos.add(linea.split(";")[1]);
+                ListDatos.add(linea.split(";")[2]);
+
         }
         is.close();
         }catch(IOException e){
